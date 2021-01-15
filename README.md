@@ -18,7 +18,7 @@
 
 ### About Me
 
-I am also working on  **Machine Learnins** along with **NLP** and **Statistics**.
+I am currently  studying   **Machine Learning** along with **NLP** and **Statistics**.
 
 I aim to be an **Data Scientist**. 
 
