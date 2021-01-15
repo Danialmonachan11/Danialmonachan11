@@ -1,11 +1,9 @@
 
 <h1 align="center"> <img src="Assets/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/danial-monachan-b09494142/">Danial Monachan</a>. Welcome to my GitHub! 🤗</h1>
 
-- I’m currently working on my pathway to **Cybersecurity Career**.  🔭 
+- I’m currently working on my pathway to **Data Scientist**.  🔭 
 
-- I’m currently learning  🌱  Penetration and Vulnerable Testing*, CyberSecurity and how to **build up my profile's [README.md](https://github.com/Danialmonachan11/My_info/tree/master/README.md)** 💪. 
-
-- I’m also looking to collaborate on **Open Sourced** Projects 👯  on *Web Devlopment* and *Python* 🐍 related Projects.
+- I’m currently learning  🌱  MAchine Learning and Statistics*, NLP and how to **build up my profile's [README.md](https://github.com/Danialmonachan11/My_info/tree/master/README.md)** 💪. 
 
 - I’m looking for help with *Machine Learning & Data Science.* 🤔 
 
@@ -20,15 +18,10 @@
 
 ### About Me
 
-I am also working on my **Competitive Coding Skills**. My interest lies in **Web Development**, **Application Development**, **CyberSecurity** and **Machine Learning**.
+I am also working on  **Machine Learnins** along with **NLP** and **Statistics**.
 
-I aim to be an **Opensource contributor**. 
+I aim to be an **Data Scientist**. 
 
-I have the **attitude** of a learner and the **thinking** of an optimist, engraved inside me.
-
-I wish to be a leader in my community of people and a desire to contribute to **environment** and **society**.
-
-Currently, aim is to become a globally competent individual with **programming skills** along with **business leadership/entrepreneurship skills**.
 
 
 <h2>
