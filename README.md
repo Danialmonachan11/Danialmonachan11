@@ -1,7 +1,7 @@
 
 <h1 align="center"> <img src="Assets/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/danial-monachan-b09494142/">Danial Monachan</a>. Welcome to my GitHub! 🤗</h1>
 
-- I’m currently working on my pathway to **Data Scientist**.  🔭 
+- I’m currently working on my pathway to be a **Data Scientist**.  🔭 
 
 - I’m currently learning  🌱  MAchine Learning and Statistics*, NLP and how to **build up my profile's [README.md](https://github.com/Danialmonachan11/My_info/tree/master/README.md)** 💪. 
 
