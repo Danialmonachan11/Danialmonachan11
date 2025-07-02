@@ -1,35 +1,55 @@
+# Hi there, I'm Danial Monachan 👋
 
-<h1 align="center"> <img src="Assets/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/danial-monachan-b09494142/">Danial Monachan</a>. Welcome to my GitHub! 🤗</h1>
+## 🚀 About Me
 
-- I’m currently working on my pathway to be a **Data Scientist**.  🔭 
+**Working Student at ASML** | **Computer Science Student at BTU Cottbus-Senftenberg**
 
-- I’m currently learning  🌱  MAchine Learning and Statistics*, NLP and how to **build up my profile's [README.md](https://github.com/Danialmonachan11/My_info/tree/master/README.md)** 💪. 
+I'm passionate about **Machine Learning**, **Computer Vision**, and **Data Science** with hands-on experience in developing end-to-end ML pipelines for industrial applications.
 
-- I’m looking for help with *Machine Learning & Data Science.* 🤔 
+---
 
-- Ask me about **anything**, **anytime**! 💬 
+## 🔬 What I'm Working On
 
-- Fun fact: 86% of people try to plus in their USB devices upside down. That makes me feel a lot better about getting it wrong every time! ⚡ 
+- **Image Detection & Anomaly Detection Pipelines** for semiconductor manufacturing
+- **Deep Learning Models** including autoencoders and custom loss functions
+- **Data Processing & Visualization** for large-scale industrial datasets
+- **MLOps** practices with structured project architectures and configuration management
 
-- How to reach me: [LinkedIn](https://www.linkedin.com/in/danial-monachan-b09494142/) or <a href="mailto:danialmonachan234@gmail.com">Email</a>  📫 
+## 🛠️ Technical Skills
 
-- <a href="https://drive.google.com/drive/u/0/folders/12MhyZ3FichAi7E4jSCbDVFpK-eLDQ6d4">My Resume</a>📝 
-<p align="center"> <img src="Assets/coder.gif" alt="codergif" /> </p>
+**Languages & Frameworks:**
+- Python (PyTorch, scikit-learn, OpenCV)
+- Data Processing (Pandas, NumPy)
+- Visualization (Matplotlib, Plotly)
 
-### About Me
+**ML/AI Specialties:**
+- Computer Vision & Image Processing
+- Anomaly Detection Systems
+- Model Training & Evaluation Pipelines
+- Statistical Analysis & NLP
 
-I am currently  studying   **Machine Learning** along with **NLP** and **Statistics**.
+**Tools & Technologies:**
+- Git/GitHub, Docker
+- Jupyter Notebooks
+- Configuration Management (YAML)
+- Industrial Data Processing
 
-I aim to be an **Data Scientist**. 
+---
 
+## 🎯 Current Focus
 
+- Advancing **Computer Vision** applications in semiconductor industry
+- Developing robust **ML pipelines** for production environments
+- Exploring **Natural Language Processing** and **Statistical Modeling**
+- Building scalable **data processing** workflows
 
-<h2>
-Connect with me<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Handshake.gif" height="32px">
-</h2>
+---
 
-| [<img src="Assets/linkedin.jpg" alt="Linkedin Logo" width="40">](https://www.linkedin.com/in/danial-monachan-b09494142/) |  [<img src="Assets/insta.jpg" alt="instagram logo" width="40">](https://www.instagram.com/dan_dy_rie/) | [<img src="Assets/Gmail.png" alt="Gmail logo" width="40">](mailto:danialmonachan234@gmail.com)
-|:---:|:---:|:---:|
+## 📫 Let's Connect
 
-<br>
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danial-monachan-b09494142/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danialmonachan234@gmail.com)
+
+---
+
+*"Building intelligent systems that bridge the gap between research and real-world applications"*
